@@ -1,6 +1,8 @@
 # a-blurry-mess
 My Hyprland dot/config files
 
+[GTK version](https://github.com/Meme-Supplier/a-blurry-mess-gtk)
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/da7111fb-5b44-417a-ab52-63342b125a20" />
 
 # Basic configuration
