@@ -10,7 +10,7 @@ My Hyprland dot/config files
 - **QT/GTK**: [Breeze](https://github.com/KDE/breeze)
 - **Icons**: [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 ## [VSCodium](https://github.com/VSCodium/vscodium)
-- **Theme**: [Papirus](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
+- **Theme**: [Github Dark](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 - **Icons**: [Material Icon Theme](https://github.com/material-extensions/vscode-material-icon-theme)
 ## [Zen Browser](https://github.com/zen-browser)
 - [Zen Internet](https://github.com/sameerasw/zeninternet) + [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) extension
